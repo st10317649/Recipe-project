@@ -5,3 +5,10 @@ C:\Users\RC_Student_lab\source\repos\RecipeProject\RecipeProject\obj\Debug\Recip
 C:\Users\RC_Student_lab\source\repos\RecipeProject\RecipeProject\obj\Debug\RecipeProject.csproj.CoreCompileInputs.cache
 C:\Users\RC_Student_lab\source\repos\RecipeProject\RecipeProject\obj\Debug\RecipeProject.exe
 C:\Users\RC_Student_lab\source\repos\RecipeProject\RecipeProject\obj\Debug\RecipeProject.pdb
+C:\Users\RC_Student_lab\Desktop\RecipeProject\RecipeProject\bin\Debug\RecipeProject.exe.config
+C:\Users\RC_Student_lab\Desktop\RecipeProject\RecipeProject\bin\Debug\RecipeProject.exe
+C:\Users\RC_Student_lab\Desktop\RecipeProject\RecipeProject\bin\Debug\RecipeProject.pdb
+C:\Users\RC_Student_lab\Desktop\RecipeProject\RecipeProject\obj\Debug\RecipeProject.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Desktop\RecipeProject\RecipeProject\obj\Debug\RecipeProject.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\RecipeProject\RecipeProject\obj\Debug\RecipeProject.exe
+C:\Users\RC_Student_lab\Desktop\RecipeProject\RecipeProject\obj\Debug\RecipeProject.pdb
