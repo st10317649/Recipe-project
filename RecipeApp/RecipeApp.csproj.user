@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddRecipeControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteRecipeControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DisplayRecipesControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EnterInstructionsDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IngredientDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RecipeDetailsDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RecipeInstructionsDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ScaleRecipeControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddRecipeControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteRecipeControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DisplayRecipesControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EnterInstructionsDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="IngredientDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RecipeDetailsDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RecipeInstructionsDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ScaleRecipeControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

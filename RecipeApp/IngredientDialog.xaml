@@ -1,0 +1,25 @@
+﻿<Window x:Class="RecipeApp.IngredientDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ingredient" Height="350" Width="400">
+    <Grid>
+        <StackPanel>
+            <Label Content="Name"/>
+            <TextBox Name="txtName" Margin="5"/>
+
+            <Label Content="Quantity"/>
+            <TextBox Name="txtQuantity" Margin="5"/>
+
+            <Label Content="Unit of Measurement"/>
+            <TextBox Name="txtUnit" Margin="5"/>
+
+            <Label Content="Calories"/>
+            <TextBox Name="txtCalories" Margin="5"/>
+
+            <Label Content="Food Group"/>
+            <TextBox Name="txtFoodGroup" Margin="5"/>
+
+            <Button Content="OK" Margin="5"  Click="Ok_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
